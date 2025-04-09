@@ -2,7 +2,8 @@
 Inside this analysis, i have carried out some data based on the sale of the product from product information to the customer information. I did cleaned data first with involved power queries and performed analysising the data resulting in making the best dashboard with lots of information. 
 
 # Dashboard
-![image](https://github.com/user-attachments/assets/34a63cb1-1f03-4416-a138-34dc8d71a86c)
+![image](https://github.com/user-attachments/assets/81287709-b4f0-4685-ac5e-5ba3a828be13)
+
 
 # Analytical analysis dashboard
 ![image](https://github.com/user-attachments/assets/4377fe0d-0ef2-4a7d-8478-a85467c180b7)
